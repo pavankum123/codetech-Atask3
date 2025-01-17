@@ -1,0 +1,30 @@
+#include <Wire.h>              // Include the Wire library for I2C communication
+
+// Define the sensor pin and type
+#define DHTPIN 2       // Pin connected to the DHT sensor
+#define DHTTYPE DHT11  // DHT 11 sensor type (use DHT22 for DHT22)
+
+// Create DHT sensor object
+
+// Create LCD object with I2C address (0x27) and 16x2 display size
+
+void setup() {
+  // Start the Serial Monitor for debugging
+  Serial.begin(9600);
+  
+}
+
+void loop() {
+  // Delay between readings (in milliseconds)
+  delay(2000); // 2 seconds
+  
+  // Read temperature from DHT sensor (in Celsius)
+  
+  // Check if the reading is valid
+    // If reading failed, display error
+    Serial.println("Failed to read from DHT sensor!");
+    // Print the temperature to Serial Monitor
+    Serial.print("Temperature: ");
+
+  }
+
