@@ -10,7 +10,7 @@
 
 
 ### Project: TEMPERATURE MONITORING SYSTEM
-![image alt]()
+![image alt](https://github.com/pavankum123/codetech-Atask3/blob/3fcad60008a8bb481e8c254b33b9eacf50459f13/TEMPERATURE%20MONITORING%20SYSTEM.jpg)
 
 ### Objective
 The primary objective of a Temperature Monitoring System is to continuously measure, monitor, and display the temperature of a particular environment or object in real-time. It helps to ensure that the temperature remains within desired limits for various applications, such as in industrial processes, home automation, server rooms, greenhouses, and medical or food storage.
